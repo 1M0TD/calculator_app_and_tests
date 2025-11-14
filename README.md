@@ -8,6 +8,6 @@
 1. Откройте командную строку;
 2. Перейдите в дирректорию где храниться проект "CalculatorApp.Test";
 3. Выполните команду dotnet test;
-### III. Запустите скрипт "TestCalculator.bat"
+### III. Через скрипт "TestCalculator.bat"
 1. Откройте папку где храниться проект CalculatorApp.Test;
 2. Запустите скрипт "TestCalculator.bat"
